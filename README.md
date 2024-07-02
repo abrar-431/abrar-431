@@ -1,3 +1,4 @@
+![logo](https://github.com/abrar-431/abrar-431/blob/main/github_banner-01.jpg)
 <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=22759A&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abrar+Hafiz+Rabbani" alt="Typing SVG" />
 </a>
