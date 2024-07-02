@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrar Hafiz Rabbani</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Bangladesh. I love to explore something new.</h3>
 
 - 🌱 I’m currently learning **MERN stack**
