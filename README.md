@@ -3,21 +3,16 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=22759A&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abrar+Hafiz+Rabbani" alt="Typing SVG" />
 </a>
 <hr>
-<h3 align="left">A passionate frontend developer from Bangladesh. I love to explore something new.</h3>
-<img width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" align="right"/>
-<div align="left" margin="0 0 0 10">
-        - 🌱 I’m currently learning **MERN stack**
-        <br>
-        - 🌱 I’m currently learning **MERN stack**
-        <br>
-        - 🌱 I’m currently learning **MERN stack**
-        <br>
-        - 🌱 I’m currently learning **MERN stack**
-        <br>
-        - 🌱 I’m currently learning **MERN stack**
-</div>
+<img align='right' src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="400" />
+<p><em>A passionate frontend developer from Bangladesh.</em>
 
-<h3 align="left">Connect with me:</h3>
+<h4> Overview: </h4>
+
+  - 🌱 I’m currently learning MERN stack
+  - 📚 I'm a passionate learner
+  - 💻 I'm a tech enthusiast
+  - 🔍 I love exploring new technologies
+
 <p align="left">
 </p>
 
