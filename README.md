@@ -1,9 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-    <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=22759A&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abrar+Hafiz+Rabbani" alt="Typing SVG" />
-    </a>
-</div>
-<h3 align="center">A passionate frontend developer from Bangladesh. I love to explore something new.</h3>
+</a>
+<h3 align="left">A passionate frontend developer from Bangladesh. I love to explore something new.</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
