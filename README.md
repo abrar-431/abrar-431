@@ -3,15 +3,13 @@
 </a>
 <hr>
 <h3 align="left">A passionate frontend developer from Bangladesh. I love to explore something new.</h3>
-<div style="display: flex;">
-        <img style="width: '40%'" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" align="right"/>
-<div style="align: left; width: '60%';">
+<img width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" align="right"/>
+<div align="left">
         - 🌱 I’m currently learning **MERN stack**
         - 🌱 I’m currently learning **MERN stack**
         - 🌱 I’m currently learning **MERN stack**
         - 🌱 I’m currently learning **MERN stack**
         - 🌱 I’m currently learning **MERN stack**
-</div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
