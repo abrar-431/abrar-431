@@ -23,4 +23,5 @@
 
 <div align="center">
         <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=abrar-431&count_private=true&theme=react&border_radius=10" alt="streak stats of abrar-431"/>
+        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-431&show_icons=true&locale=en&layout=compact" alt="abrar-431" />
 </div>
